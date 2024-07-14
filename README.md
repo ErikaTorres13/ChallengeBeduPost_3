@@ -10,9 +10,7 @@
 
 🌟 ¡No te pierdas estos consejos de expertos para elegir el mejor equipo y comenzar tus aventuras al aire libre con seguridad y estilo! 💪
 
-📖 **¡Lee nuestro artículo y prepárate para tus próximas expediciones!** 🚶‍♂️🚶‍♀️
-
-🔗 [Lee el artículo completo aquí](https://tu-enlace-aqui.com) 🌐
+📖 **¡Lee el artículo completo aquí!** 🔗 [Equipo Esencial para Principiantes en Senderismo](https://github.com/ErikaTorres13/Articulo_Sec2/blob/main/README.md)
 
 💬 Cuéntanos en los comentarios: ¿Qué equipo es tu favorito? 🤔👇
 
